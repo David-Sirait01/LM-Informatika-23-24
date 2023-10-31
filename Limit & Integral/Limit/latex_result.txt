@@ -1,0 +1,6 @@
+No.fu	 \frac{5}{4}No.fu	 3No.fu	 \frac{5}{2}No.fu	 \frac{1 - \sin{\left(90 \right)}}{\cos^{2}{\left(90 \right)}}No.fu	 \frac{- \sin{\left(90 \right)} - \sin^{2}{\left(45 \right)} + 3 \cos^{2}{\left(45 \right)}}{- 2 \sin^{2}{\left(45 \right)} + \cos^{2}{\left(45 \right)} + \sin{\left(45 \right)} \cos{\left(45 \right)}}No.fu	 -3No.fu	 \frac{5}{4}
+No.fu	 3
+No.fu	 \frac{5}{2}
+No.fu	 \frac{1 - \sin{\left(90 \right)}}{\cos^{2}{\left(90 \right)}}
+No.fu	 \frac{- \sin{\left(90 \right)} - \sin^{2}{\left(45 \right)} + 3 \cos^{2}{\left(45 \right)}}{- 2 \sin^{2}{\left(45 \right)} + \cos^{2}{\left(45 \right)} + \sin{\left(45 \right)} \cos{\left(45 \right)}}
+No.fu	 -3
